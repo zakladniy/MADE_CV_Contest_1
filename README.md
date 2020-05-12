@@ -2,7 +2,7 @@
 Repository for kaggle competition "Thousand Facial Landmarks" within MADE Computer Vision course
 
 ```diff
-+ How to run script: python .\train.py
+Run script: python .\train.py
 ```
 
 **LB score screen:**
