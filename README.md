@@ -10,4 +10,4 @@ Run script: python .\train.py
 
 
 **Place in LB score screen:**
-![Screenshot](Place in LB.png)
+![Screenshot](Place_in_LB.png)
