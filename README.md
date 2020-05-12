@@ -7,3 +7,7 @@ Run script: python .\train.py
 
 **LB score screen:**
 ![Screenshot](LB.png)
+
+
+**Place in LB score screen:**
+![Screenshot](Place in LB.png)
