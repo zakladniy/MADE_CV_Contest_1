@@ -24,4 +24,4 @@ Run script: python .\train.py
   * Image input size selection (SCALE_SIZE, CROP_SIZE);
   * Selection between RandomCrop and CenterCrop;
   * Add Grayscale transform;
-  * Add ColorJitter(brightness).
+  * Add ColorJitter(brightness) transform.
