@@ -1,6 +1,9 @@
 # MADE_CV_Contest_1
 Repository for kaggle competition "Thousand Facial Landmarks" within MADE Computer Vision course
 
+My solution is based on the baseline code from the competition authors
+
+
 ```diff
 Run script: python .\train.py
 ```
