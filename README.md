@@ -21,7 +21,7 @@ Run script: python .\train.py
   * Network selection (ResNet, ResNeXt, Inception etc);
   * Learning rate selection;
   * Selection number of epochs in range (1, 12);
-  * Attempts to add new fc layers with regularization to the pretrained model.
+  * Attempts to add new fc layers with regularization to the pretrained model and unfreeze previous model layers.
 * Work with dataset:
   * Train size selection (has optimal value);
   * Image input size selection (SCALE_SIZE, CROP_SIZE);
